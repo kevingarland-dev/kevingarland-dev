@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kevingarland-dev
 - 👀 I’m interested in coding and gaming.
-- 🌱 I’m currently learning typescript, javascript.
+- 🌱 I’m currently learning visual basic, javascript.
 - 💞️ I’m looking to collaborate on anything possible
 - 📫 How to reach me: tie a letter to a pigeon.
 - 😄 Pronouns: He, His, Him.
